@@ -1,2 +1,3 @@
 /*
   Access-Control-Allow-Origin: https://asar-memeland.netlify.app
+  Access-Control-Allow-Headers: Content-Type
