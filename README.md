@@ -1,5 +1,5 @@
 # [Demo of Meme Generator App](https://asar-memeland.netlify.app)
-client: https://github.com/Moha8ad/meme-generator-client
+Client: https://github.com/Moha8ad/meme-generator-client
 
 ## Descriptions
 
